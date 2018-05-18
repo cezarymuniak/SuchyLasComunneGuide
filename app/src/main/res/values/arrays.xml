@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>Morasko Meteorite Nature Reserve</item>
+        <item>A memorial stone at the birthplace of Wojciech Bogusławski in Glinno</item>
+    </string-array>
+
+
+    <string-array name="descriptions_tourism1">
+        <item>The Morasko meteorite nature reserve \n(Polish: Rezerwat przyrody meteoryt Morasko) is located in Morasko, on the northern edge of the city of Poznań, Poland. \n\nIt contains seven meteor craters. The reserve has an area of 55 hectares (136 acres) and was established in 1976.</item>
+        <item>  Wojciech Bogusławski (9 April 1757 – 23 July 1829) was a Polish actor, theater director and playwright of the Polish Enlightenment. He was the director of the National Theatre, Warsaw, (Teatr Narodowy), during three distinct periods, as well as establishing a Polish opera. He is considered the Father of Polish theatre.</item>
+    </string-array>
+
+
+    <string-array name="descriptions_tourism2">
+        <item>photo by Radomił Binek \ndistributed under a CC-SA 3.0 license.  https://creativecommons.org/licenses/by-sa/3.0/</item>
+        <item>photo by Wojciech Czombik, distributed under a CC-SA 3.0 license.  https://creativecommons.org/licenses/by-sa/3.0/</item>
+    </string-array>
+
+
+    <string-array name="descriptions_tourism3">
+        <item>photo by Petr Brož \ndistributed under a CC-SA 3.0 license.  https://creativecommons.org/licenses/by-sa/3.0/</item>
+        <item>This article uses materials from the Wikipedia articles: \n\nhttps://en.wikipedia.org/wiki/Wojciech_Bogus%C5%82awski  \n\nhttps://en.wikipedia.org/wiki/Morasko_Meteorite_Nature_Reserve \n\nwhich are released under the https://creativecommons.org/licenses/by-sa/3.0/</item>
+    </string-array>
+
+
+    <array name="tourism_pictures1">
+        <item>@drawable/morasko_krater</item>
+        <item>@drawable/glaz_boguslawski</item>
+    </array>
+
+    <array name="tourism_pictures2">
+        <item>@drawable/morasko_meteoryt</item>
+        <item>@drawable/herb300</item>
+    </array>
+
+
+    <string-array name="titles_sports">
+        <item>Hall of the Communal Sports Centre</item>
+        <item>"Octopus" Water Park</item>
+    </string-array>
+
+
+    <string-array name="descriptions_sports1">
+        <item>Hall of the Communal Sports Centre is suitable for playing basketball, volleyball, team handball and indoor soccer, as well as a newly constructed building of the Culture Centre.</item>
+        <item>The complex of "Octopus" Water Park includes also a bowling alley, restaurant, as well as a fully equipped conference-business studio.</item>
+    </string-array>
+
+
+    <string-array name="descriptions_sports2">
+        <item>photo from www.gos.suchylas.pl</item>
+        <item> photo by Robo-E, distributed under a CC-SA 3.0 license.  \nhttps://creativecommons.org/licenses/by-sa/3.0/ \n\nThis article uses materials from the sites: \nhttp://poznan.travel/en/poi/show/id/727  \nwww.gos.suchylas.pl  https://en.wikipedia.org/wiki/Suchy_Las</item>
+    </string-array>
+
+
+    <array name="sports_pictures1">
+        <item>@drawable/hall</item>
+        <item>@drawable/swimming_pool</item>
+    </array>
+
+</resources>

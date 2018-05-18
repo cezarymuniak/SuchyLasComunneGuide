@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGreen">
+
+    <TextView
+        android:id="@+id/textViewShop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white_transparent"
+        android:padding="@dimen/padding_text10dp"
+        android:text="@string/shopping_main"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text20sp" />
+
+    <TextView
+        android:id="@+id/textViewShop2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewShop"
+        android:background="@color/white_transparent"
+        android:padding="@dimen/padding_10dp"
+        android:text="@string/shopping_desc"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_size_15sp" />
+
+    <fragment
+        android:id="@+id/map2"
+        class="com.google.android.gms.maps.MapFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textViewShop2"
+        android:layout_marginBottom="@dimen/margin_50dp"
+        android:layout_marginLeft="@dimen/margin_50dp"
+        android:layout_marginRight="@dimen/margin_50dp"
+        android:layout_marginTop="@dimen/margin_50dp" />
+
+</RelativeLayout>

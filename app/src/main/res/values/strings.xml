@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Suchy Las Commune Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">The Office of the Suchy Las</string>
+    <string name="nav_header_subtitle">\nStreet. School 13 62-002 Suchy Las
+        \n\nTel. +48 061 8926-250
+        \n\nWebsite: www.suchylas.pl
+        \n\nhttp://bip.suchylas.pl
+        \n\nemail: ug@suchylas.pl </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="commune_contains">Suchy Las Commune contains the villages and settlements of Biedrusko, Chludowo, Golęczewo, Suchy Las, Zielątkowo, Złotkowo and Złotniki.</string>
+    <string name="herb">Herb</string>
+    <string name="morasko_krater">Morasko Krater</string>
+    <string name="morasko_meteoryt">Morasko Meteoryt</string>
+    <string name="shopping_main">Shopping in Suchy Las</string>
+    <string name="shopping_desc">The biggest shopping centre in Suchy Las is  Galeria Sucholeska.</string>
+    <string name="info">Info</string>
+    <string name="tourism">Tourism</string>
+    <string name="shopping">Shopping</string>
+    <string name="sport">Sport</string>
+    <string name="map">Map</string>
+    <string name="sport_suchy_las">Sport</string>
+    <string name="welcome_2">Welcome in Suchy Las Commune Guide. Click on the Navigation Drawer to see usefull informations about  Suchy Las</string>
+    <string name="welcome_1">Suchy Las Commune Guide</string>
+</resources>
