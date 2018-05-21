@@ -7,7 +7,7 @@ SuchyLasComunneGuide is an educational app that was created for Android Basics b
 
 
 
-![Alt Text](https://thumbs.gfycat.com/IncompatibleIllustriousDanishswedishfarmdog-size_restricted.gif)  
+![Alt Text](https://thumbs.gfycat.com/SecretYellowishDrever-size_restricted.gif)  
 
 
 
